@@ -1,0 +1,2 @@
+# PruebaParaAlgoritmos
+Clase de algoritmo 
